@@ -1,0 +1,71 @@
+{
+  "user": [
+    {
+      "name": "Wai Yan Hein",
+      "number": "09445088092",
+      "password": "132504",
+      "email": "hwaiyan913@gmail.com",
+      "id": 1
+    }
+  ],
+  "post": [
+    {
+      "id": 1,
+      "title": "Welcome from Myanmar",
+      "body": "Myanmar (formerly Burma) is a Southeast Asian nation of more than 100 ethnic groups, bordering India, Bangladesh, China, Laos and Thailand. Yangon (formerly Rangoon), the country's largest city, is home to bustling markets, numerous parks and lakes, and the towering, gilded Shwedagon Pagoda, which contains Buddhist relics and",
+      "image": "./images/myanmar.jpg",
+      "updated_date": "2019_12_3"
+    },
+    {
+      "id": 2,
+      "title": "Welcome from Thailand",
+      "body": "Thailand is a Southeast Asian country. It's known for tropical beaches, opulent royal palaces, ancient ruins and ornate temples displaying figures of Buddha. In Bangkok, the capital, an ultramodern cityscape rises next to quiet canalside communities and the iconic temples of Wat Arun, Wat Pho and the Emerald Buddha Temple (Wat Phra Kaew). Nearby beach resorts include bustling Pattaya and fashionable Hua Hin.",
+      "userId": 2,
+      "updated_date": "2020_12_16"
+    },
+    {
+      "id": 3,
+      "title": "Welcome from Singapore",
+      "body": "Singapore officially the Republic of Singapore, is an island country and city-state in maritime Southeast Asia. It is located about one degree of latitude",
+      "userId": 3,
+      "updated_date": "2019_12_3"
+    },
+    {
+      "id": 4,
+      "title": "Welcome from Malayia",
+      "body": "Malaysia is a Southeast Asian country occupying parts of the Malay Peninsula and the island of Borneo. It's known for its beaches, rainforests and mix of Malay, Chinese, Indian and European cultural influences. The capital, Kuala Lumpur, is home to colonial buildings, busy shopping districts such as Bukit Bintang and skyscrapers such as the iconic, 451m-tall Petronas Twin Towers. ",
+      "userId": 4,
+      "updated_date": "2019_12_3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "comment": "Beautiful Country",
+      "postId": 1,
+      "userId": 2,
+      "updated_date": "2019_12_3"
+    },
+    {
+      "id": 2,
+      "comment": "This is Amazing",
+      "postId": 2,
+      "userId": 1,
+      "updated_date": "2019_12_3"
+    },
+    {
+      "id": 3,
+      "comment": "Nice Country",
+      "postId": 2,
+      "userId": 3,
+      "updated_date": "2019_12_3"
+    },
+    {
+      "id": 4,
+      "comment": "Very Beautiful",
+      "postId": 2,
+      "userId": 4,
+      "updated_date": "2019_12_3"
+    }
+  ]
+}
